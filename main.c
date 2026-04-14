@@ -2,8 +2,6 @@
 
 int main()
 {
-  //ここにコードを書く
-
-  
+ printf("Hello Chutora!\n");
   return 0;
 }

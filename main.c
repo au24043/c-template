@@ -2,7 +2,7 @@
 
 int main()
 {
-  //ここにコードを書く
+ prinhtf("Hello Chutora!|n");
 
   
   return 0;

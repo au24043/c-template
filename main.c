@@ -2,8 +2,7 @@
 
 int main()
 {
-  //ここにコードを書く
-
+printf("Helllo Chutora!|n");
   
   return 0;
 }
